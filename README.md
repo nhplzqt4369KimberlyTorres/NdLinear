@@ -282,3 +282,5 @@ For questions or collaborations, please contact [Alex Reneau](mailto:alex@ensemb
 This project is distributed under the Apache 2.0 license. View the [LICENSE](https://github.com/ensemble-core/NdLinear/blob/main/LICENSE) file for more details.
 
 <!-- Auto-update: 2025-10-12T20:11:14.755940 -->
+
+<!-- Auto-update: 2025-10-14T01:48:40.865021 -->
